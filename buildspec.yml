@@ -2,7 +2,7 @@ version: 0.2
 
 env:
   variables:
-    AWS_ACCOUNT_ID: "197538345639"
+    AWS_ACCOUNT_ID: "837363522746"
     REPOSITORY_NAME: "website"
     CONTAINER_NAME: "website"
     CLUSTER_NAME: "websitecluster"
